@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yukinoumi.github.io</id>
     <title>GH</title>
-    <updated>2022-04-13T08:11:20.327Z</updated>
+    <updated>2022-04-14T01:51:55.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yukinoumi.github.io"/>
     <link rel="self" href="https://yukinoumi.github.io/atom.xml"/>
@@ -11,16 +11,16 @@
     <icon>https://yukinoumi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, GH</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello WUJI]]></title>
         <id>https://yukinoumi.github.io/post/hello-gridea/</id>
         <link href="https://yukinoumi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>👏  <strong>WUJI</strong>你就是歌姬吧 ！<br>
+✍️  <strong>记住我说的话</strong> ..</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  <strong>WUJI</strong>你就是歌姬吧 ！<br>
+✍️  <strong>记住我说的话</strong> ..</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
